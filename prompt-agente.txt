@@ -1,0 +1,20 @@
+Atue como um especialista em N8N.
+
+Crie uma automação no N8N para lembrar os clientes do check-in.
+
+Público ou responsável:
+agente de viagem
+
+Resultado esperado:
+clientes recebem um contato por whatsapp lembrando de fazer check-in, com a url e o numero da reserva
+
+
+Ferramentas envolvidas:
+Google Sheets e whatsapp api.
+
+Fluxo desejado:
+1. preecnher os dados na planilha.
+2. 48h/72h antes do voo, mandar uma msg.
+
+Regras importantes:
+verificar a data para check-in.
